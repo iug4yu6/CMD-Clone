@@ -1,0 +1,6 @@
+pip3
+python3
+tqdm
+plateform
+os
+time
